@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0bxsxkoEkIlRw0h/4gdGCZu6Hq2B5NO3Cz8OYgAptXMlLRIt8OJnukBBBNikiBmcHvl/2zLu7Ld7VVlEC6qhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fahmi\\Documents\\Aal\\Aura\\altamis\\altamis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fahmi\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Fahmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
